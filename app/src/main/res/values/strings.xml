@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3.Chat</string>
+    <string name="chats_title">Chats</string>
+    <string name="select_chat">Select a chat</string>
+    <string name="back_to_chats">Back</string>
+    <string name="no_chats">No chats found</string>
+    <string name="no_messages">No messages found</string>
+    <string name="load_more">Load more</string>
+    <string name="network_error">Could not load data.</string>
+    <string name="close_image">Close</string>
+</resources>

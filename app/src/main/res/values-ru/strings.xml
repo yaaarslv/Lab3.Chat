@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3.Chat</string>
+    <string name="chats_title">Чаты</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="back_to_chats">Назад</string>
+    <string name="no_chats">Чаты не найдены</string>
+    <string name="no_messages">Сообщений нет</string>
+    <string name="load_more">Загрузить ещё</string>
+    <string name="network_error">Не удалось загрузить данные.</string>
+    <string name="close_image">Закрыть</string>
+</resources>
